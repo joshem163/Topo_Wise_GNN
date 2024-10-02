@@ -15,7 +15,7 @@ The combination of *Wise embeddings* and topological features allows the model t
 
 # Requirements
 Wise-GNN depends on the followings:
-Pytorch, Pyflagser, networkx 3.1, sklearn 1.3.0, torch_geometric 2.4.0
+Pytorch 2.4.0, Pyflagser 0.4.7, networkx 3.2.1, sklearn 1.3.0, torch_geometric 2.4.0
 
    
 The code is implemented in python 3.11.4. 
