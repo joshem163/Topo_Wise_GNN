@@ -29,7 +29,8 @@ In this study,  7 benchmark datasets have been utilized, comprising three homoph
 # Runing the  Experiments
 To repeat the experiment a specific dataset, run the train_*.py file with the following command:
 - --dataset: Dataset name (options: cora, citeseer, pubmed, texas, cornell, wisconsin, chameleon)
--  --model_type: Baseline Model (GCN, GSAGE, GAT, LINKX, H2GCN), and --public_split: yes/no (yes: cora, citeseer, and pubmed)   
+- --model_type: Baseline Model (GCN, GSAGE, GAT, LINKX, H2GCN)
+- --public_split: yes/no (yes: cora, citeseer, and pubmed)   
 
 # Contributing
 Contributions are welcome! Please follow these steps:
